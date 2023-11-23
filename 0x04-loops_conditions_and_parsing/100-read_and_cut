@@ -1,5 +1,4 @@
-#!/bin/bash
-# displays the content of the file /etc/passwd
+#!/usr/bin/env bash
 
 while IFS=":" read -r username _ userid _ homedir _
 do
