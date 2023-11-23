@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# display special string 10 times using until loop
+
+a=0
+until [ $a == 10 ]; do
+    echo "Best School"
+    ((a++))
+done
