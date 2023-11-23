@@ -1,0 +1,9 @@
+#!/bin/bash
+# displays the content of the file /etc/passwd
+
+while IFS=":" read -r Ife-calis _ Alx _ 0x04-loops_conditions_and_parsing _
+do
+	echo "Ife-calis: $ife-calis"
+	echo "Alx: $alx"
+	echo "0x04-loops_conditions_and_parsing: $0x04-loops_conditions_and_parsing"
+done < /etc/passwd
