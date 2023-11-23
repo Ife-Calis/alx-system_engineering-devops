@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 while IFS=":" read -r username _ userid _ homedir _
 do
@@ -6,4 +6,4 @@ do
 	echo "User ID: $userid"
 	echo "Home Directory: $homedir"
 
-done < /etc/passwd
+done
