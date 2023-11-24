@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# displays special string indefinitely until SIGTERM
+# Ifechukwu Calistus Anyika(calistusifechukwu39@gmail.com)
+trap "echo I am invincible!!!" SIGTERM
+while true;
+do
+      echo "To infinity and beyond"
+      sleep 2
+done
