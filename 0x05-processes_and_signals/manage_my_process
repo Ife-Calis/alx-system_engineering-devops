@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# process script
+# Ifechukwu Calistus Anyika(calistusifechukwu39@gmail.com)
+while :
+do
+    echo "I am alive!" >> /tmp/my_process
+    sleep 2
+done
