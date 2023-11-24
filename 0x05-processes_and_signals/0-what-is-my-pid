@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# displays myself PID
+# Ifechukwu Anyika
+
+echo $$
