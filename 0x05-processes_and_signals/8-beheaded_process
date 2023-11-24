@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill a process
+# Ifechukwu Calistus Anyika(calistusifechukwu39@gmail.com)
+kill -KILL "$(pgrep -f 7-highlander)"
