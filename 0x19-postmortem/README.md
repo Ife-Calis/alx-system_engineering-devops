@@ -65,12 +65,10 @@ and could have been addressed earlier had the app been test.
 * To automate fixing of any such identitical errors should they occur in the future. The manifest
 replaces any `phpp` extensions in the file `/var/www/html/wp-settings.php` with `php`.
 
-
-
-## AUTHOR:
-* _Ifechukwu C. Anyika
-
-
 But of course, it will never occur again, because we're programmers, and we never make
 errors! :wink:
 
+
+
+## AUTHOR:
+* _Ifechukwu C. Anyika_
